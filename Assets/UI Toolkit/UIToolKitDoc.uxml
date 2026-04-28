@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Button text="右へ移動" name="Button-right" style="background-color: rgb(236, 72, 72);"/>
+    <ui:Button text="左へ移動" name="Button-left" style="background-color: rgb(51, 81, 255);"/>
+</ui:UXML>
